@@ -19,7 +19,6 @@ def ask_llm(prompt):
 
 
 def main():
-    # Example inputs to test the model
     prompts = [
         "Explain what a neural network is in simple terms.",
         "Give me 3 pros and cons of using AI in education.",
