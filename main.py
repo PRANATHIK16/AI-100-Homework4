@@ -2,7 +2,7 @@ import os
 from openai import OpenAI
 
 
-export OPENAI_API_KEY="your_key_here"
+export OPENAI_API_KEY="key_here"
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
