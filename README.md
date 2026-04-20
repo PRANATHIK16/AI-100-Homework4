@@ -21,3 +21,7 @@ This project shows how to interact with a Large Language Model (LLM) using code.
 
 ## Purpose
 This project to learn how to use LLMs through APIs.
+
+
+## Requirments
+Openai 
