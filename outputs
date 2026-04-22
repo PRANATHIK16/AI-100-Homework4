@@ -1,0 +1,29 @@
+INPUT: Explain what a neural network is in simple terms.
+
+OUTPUT:
+A neural network is a type of computer system inspired by the human brain. It consists of layers of connected nodes (like neurons) that process information and learn patterns from data. Neural networks are often used for tasks like image recognition, language processing, and predictions.
+
+----------------------------------------
+
+INPUT: Give me 3 pros and cons of AI in education.
+
+OUTPUT:
+Pros:
+1. Personalized learning experiences for students
+2. Faster grading and feedback
+3. Increased access to educational resources
+
+Cons:
+1. Risk of over-reliance on technology
+2. Privacy concerns with student data
+3. Reduced human interaction in learning
+
+----------------------------------------
+
+INPUT: Write a short Python function that adds two numbers.
+
+OUTPUT:
+def add_numbers(a, b):
+    return a + b
+
+----------------------------------------
